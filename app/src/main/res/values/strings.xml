@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">vanillaiZee</string>
+    <string name="welcome_to_dinesh_app">welcome to dinesh app!</string>
+    <string name="weather_update" />
+    <string name="weather">weather</string>
+    <string name="enter_the_city_name">enter the city name</string>
+    <string name="get">get</string>
+    <string name="country_code_optional">country code(optional)</string>
+</resources>
